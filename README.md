@@ -11,7 +11,7 @@ This project showcases a self-developed GUI chessboard with music playback and r
 ## Features
 
 - Chess game logic implemented in C++
-- Custom GUI interface using Qt & ImGui
+- Custom GUI interface built with Qt
 - Built-in music player with multiple tracks
 - Real-time performance stats (FPS, debug info)
 - Click-based piece movement
