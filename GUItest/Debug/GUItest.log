@@ -1,0 +1,2 @@
+﻿  glad.c
+C:\Users\dora5\Desktop\imgui\GUItest\GUItest\glad.c(25,10): fatal error C1083: 無法開啟包含檔案: 'glad/glad.h': No such file or directory
