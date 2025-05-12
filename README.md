@@ -32,7 +32,7 @@ The logic is designed to be modular and clear, ensuring a smooth gameplay experi
 
 ---
 
-## Screenshots
+## Screenshot
 
 <p align="center">
   <img src="https://github.com/tongyu0924/ChessBoard/blob/main/demo_image.png?raw=true" width="480" />
