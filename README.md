@@ -19,8 +19,8 @@ This project showcases a self-developed GUI chessboard with music playback and r
 
 ## My Contribution
 
-I primarily worked on the **backend logic** of the chess system.  
-This includes:
+This project was developed collaboratively with other team members.
+I was mainly responsible for the **backend logic** of the chess system, including:
 
 - Implementing **piece movement rules** in C++ (e.g., valid knight/bishop/queen moves)
 - Handling **capture mechanics** (which pieces can capture which)
