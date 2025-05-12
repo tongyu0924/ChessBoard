@@ -17,7 +17,7 @@ This project showcases a self-developed GUI chessboard with music playback and r
 
 ---
 
-## Contribution
+## My Contribution
 
 I primarily worked on the **backend logic** of the chess system.  
 This includes:
