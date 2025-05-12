@@ -1,6 +1,6 @@
 # ChessBoard
 
-An interactive chess game demo built with **C++** and **Qt GUI**.  
+An interactive chess game demo built with **C++** and **ImGui**.  
 This project showcases a self-developed GUI chessboard with music playback and real-time FPS display.
 
 🎬 **Demo Video**  
@@ -11,7 +11,7 @@ This project showcases a self-developed GUI chessboard with music playback and r
 ## Features
 
 - Chess game logic implemented in C++
-- Custom GUI interface built with Qt
+- Custom GUI interface built with ImGui
 - Built-in music player with multiple tracks
 - Click-based piece movement
 
