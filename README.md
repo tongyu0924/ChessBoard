@@ -43,7 +43,7 @@ The logic is designed to be modular and clear, ensuring a smooth gameplay experi
 ## Note
 
 > This repository is for demonstration purposes only.  
-> The source code is not publicly available at this time.
+> The source code is complete and provided for reference. 
 
 ---
 
