@@ -35,7 +35,7 @@ The logic is designed to be modular and clear, ensuring a smooth gameplay experi
 ## Screenshots
 
 <p align="center">
-  <img src="https://i.ytimg.com/vi/EJJQqNtspAE/hqdefault.jpg" width="480" />
+  <img src="https://github.com/tongyu0924/ChessBoard/blob/main/demo_image.png?raw=true" width="480" />
 </p>
 
 ---
