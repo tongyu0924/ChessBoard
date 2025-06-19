@@ -6,6 +6,8 @@ This project showcases a self-developed GUI chessboard with music playback and r
 🎬 **Demo Video**  
 ▶️ [Watch on YouTube](https://www.youtube.com/watch?v=EJJQqNtspAE)
 
+> This project was collaboratively developed as part of the **Object-Oriented Programming** course at  
+> [**National Taiwan University of Science and Technology (NTUST)** – CSIE Department].
 ---
 
 ## Features
@@ -15,8 +17,7 @@ This project showcases a self-developed GUI chessboard with music playback and r
 - Built-in music player with multiple tracks
 - Click-based piece movement
 
----
-
+<!--
 ## My Contribution
 
 This project was developed collaboratively with other team members.
@@ -29,7 +30,7 @@ I was mainly responsible for the **backend logic** of the chess system, includin
 - Defining the overall **game state architecture** and rule flow
 
 The logic is designed to be modular and clear, ensuring a smooth gameplay experience with rule consistency.
-
+-->
 ---
 
 ## Screenshot
