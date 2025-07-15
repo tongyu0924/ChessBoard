@@ -39,11 +39,3 @@ The logic is designed to be modular and clear, ensuring a smooth gameplay experi
   <img src="https://github.com/tongyu0924/ChessBoard/blob/main/demo_image.png?raw=true" width="480" />
 </p>
 
----
-
-## Note
-
-> This repository is for demonstration purposes only.  
-> The source code is complete and provided for reference. 
-
-
