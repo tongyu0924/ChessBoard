@@ -12,11 +12,25 @@ This project showcases a self-developed GUI chessboard with music playback and r
 
 ## Features
 
-- Chess game logic implemented in C++
+- Chess game logic implemented in C++, following standard chess rules
+- Modular OOP design with separate classes for each piece (King.h, Queen.h, etc.)
 - Custom GUI interface built with ImGui
-- Built-in music player with multiple tracks
-- Click-based piece movement
+- Click-based piece movement with mouse event handling
+- Built-in background music playback (multiple tracks supported)
 
+## Project Structure
+```
+GUITest/
+├── imgui/ # ImGui library for GUI rendering
+├── include/ # Header files for core components
+├── music/ # Background music files
+├── x64/Release/ # Compiled binary output
+├── Bishop.h, King.h ... # OOP classes for each piece
+├── ViewManager.h # GUI controller logic
+├── GameManager.h # Chess game state logic
+├── main.cpp # Main application entry
+└── README.md, LICENSE, .sln
+```
 <!--
 ## My Contribution
 
