@@ -46,10 +46,4 @@ The logic is designed to be modular and clear, ensuring a smooth gameplay experi
 > This repository is for demonstration purposes only.  
 > The source code is complete and provided for reference. 
 
----
-
-## License
-
-This project is shared as a non-commercial demo.  
-No code redistribution or reuse is permitted without permission.
 
