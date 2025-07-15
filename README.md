@@ -20,16 +20,23 @@ This project showcases a self-developed GUI chessboard with music playback and r
 
 ## Project Structure
 ```
-GUITest/
-├── imgui/ # ImGui library for GUI rendering
-├── include/ # Header files for core components
-├── music/ # Background music files
-├── x64/Release/ # Compiled binary output
-├── Bishop.h, King.h ... # OOP classes for each piece
-├── ViewManager.h # GUI controller logic
-├── GameManager.h # Chess game state logic
-├── main.cpp # Main application entry
-└── README.md, LICENSE, .sln
+chessboard/
+├── GUITest/
+│   ├── imgui/           # ImGui library for GUI rendering
+│   ├── include/         # Header files for core components
+│   ├── music/           # Background music files
+│   ├── x64/Release/     # Compiled binary output
+│   ├── Bishop.h, King.h ... # OOP classes for each chess piece
+│   ├── GameManager.h    # Chess game state logic
+│   ├── ViewManager.h    # GUI controller logic
+│   ├── main.cpp         # Main application entry
+├── .vs/                 # Visual Studio metadata
+├── x64/                 # Compiled artifacts
+├── LICENSE
+├── README.md
+├── chessGUI.sln         # Visual Studio solution
+├── demo.mp4             # Gameplay demo video
+├── demo_image.png       # Screenshot for preview
 ```
 <!--
 ## My Contribution
