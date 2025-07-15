@@ -8,15 +8,6 @@ This project showcases a self-developed GUI chessboard with music playback and r
 
 > This project was collaboratively developed as part of the **Object-Oriented Programming** course at  
 > [**National Taiwan University of Science and Technology (NTUST)** – CSIE Department].
----
-
-## Features
-
-- Chess game logic implemented in C++, following standard chess rules
-- Modular OOP design with separate classes for each piece (King.h, Queen.h, etc.)
-- Custom GUI interface built with ImGui
-- Click-based piece movement with mouse event handling
-- Built-in background music playback (multiple tracks supported)
 <!--
 ## My Contribution
 
@@ -41,6 +32,15 @@ The logic is designed to be modular and clear, ensuring a smooth gameplay experi
 
 ---
 
+## Features
+
+- Chess game logic implemented in C++, following standard chess rules
+- Modular OOP design with separate classes for each piece (King.h, Queen.h, etc.)
+- Custom GUI interface built with ImGui
+- Click-based piece movement with mouse event handling
+- Built-in background music playback (multiple tracks supported)
+
+---
 ## Project Structure
 ```
 chessboard/
